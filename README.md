@@ -1,6 +1,6 @@
 # Ping Pong Politics
 
-Welcome to Ping Pong Politics, a fun and engaging ping pong game created by Jimmy, a beginner coder. This is my first game, and I'm thrilled to share it with the GitHub community!
+Welcome to Ping Pong Politics, a fun and engaging ping pong game. This is my first game, and I'm thrilled to share it with the GitHub community!
 
 ## About the Game
 
